@@ -1,4 +1,4 @@
-# Hi 👋 I'm BALAJI
+# Hi 👋 I'm BALAJI M
 
 ## 🚀 Frontend Developer | CS Student
 
