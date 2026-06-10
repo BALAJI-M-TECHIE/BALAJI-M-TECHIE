@@ -14,12 +14,12 @@
 
 ### 🛠️ Tech Stack
 
-**Frontend Development:** HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap  
-**API Integration:** REST APIs  
-**Programming Languages:** Java, JavaScript  
-**Database:** MySQL, MongoDB (CRUD operations)  
-**CMS:** WordPress  
-**Version Control:** Git, GitHub  
+- **Frontend Development:** HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap  
+- **API Integration:** REST APIs  
+- **Programming Languages:** Java, JavaScript  
+- **Database:** MySQL, MongoDB (CRUD operations)  
+- **CMS:** WordPress  
+- **Version Control:** Git, GitHub  
 
 ---
 
