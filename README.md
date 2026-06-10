@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋 I'm BALAJI
 
-<!--
-**BALAJI-M-TECHIE/BALAJI-M-TECHIE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Frontend Developer | CS Student
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me
+- 🎓 Computer Science Engineering student  
+- 💻 Focused on Full Stack Development & DSA  
+- 🚀 Passionate about building real-world web applications  
+- 🎯 Actively seeking Internship opportunities  
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend Development:** HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap  
+**API Integration:** REST APIs  
+**Programming Languages:** Java, JavaScript  
+**Database:** MySQL, MongoDB (CRUD operations)  
+**CMS:** WordPress  
+**Version Control:** Git, GitHub  
+
+---
+
+### 📌 Projects
+
+**📝 React To-Do Manager**  
+**🌦️ Weather Forecasting Web App**  
+**🍽️ Responsive Restaurant Web App**  
+
+---
+
+### 📫 Contact
+📧 Email: balajim2063@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/balaji-techie/  
+
+---
+
+⭐ *Building skills. Building projects. Building future.*
