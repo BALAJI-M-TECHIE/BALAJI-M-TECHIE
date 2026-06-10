@@ -31,6 +31,11 @@
 
 ---
 
+### 📊 Coding Profiles
+- 🧠 LeetCode: https://leetcode.com/u/Balaji_Techie/  
+- 📘 GeeksforGeeks: https://www.geeksforgeeks.org/profile/balajil2g2  
+---
+
 ### 📫 Contact
 📧 Email: balajim2063@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/balaji-techie/  
