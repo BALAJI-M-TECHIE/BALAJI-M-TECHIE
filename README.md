@@ -4,7 +4,7 @@
 
 ### 🚀 Frontend Developer | Computer Science Engineering Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Developer;Java+Programmer;Full+Stack+Learner;Open+to+Internships" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;Java+Programmer;Full+Stack+Learner;Open+to+Internships" />
 
 </div>
 
@@ -126,6 +126,18 @@ https://www.geeksforgeeks.org/profile/balajil2g2
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BALAJI-M-11&layout=compact&theme=tokyonight" />
+</p>
+
+---
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BALAJI-M-TECHIE&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BALAJI-M-TECHIE&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BALAJI-M-TECHIE&layout=compact&theme=tokyonight" />
 </p>
 
 ---
