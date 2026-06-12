@@ -71,7 +71,7 @@
 ### 🔧 Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ### 🌐 CMS
@@ -111,34 +111,6 @@ https://leetcode.com/u/Balaji_Techie/
 
 📘 GeeksforGeeks:
 https://www.geeksforgeeks.org/profile/balajil2g2
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BALAJI-M-11&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=BALAJI-M-11&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BALAJI-M-11&layout=compact&theme=tokyonight" />
-</p>
-
----
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BALAJI-M-TECHIE&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BALAJI-M-TECHIE&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BALAJI-M-TECHIE&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
