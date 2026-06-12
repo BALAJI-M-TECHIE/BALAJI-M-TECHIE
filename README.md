@@ -1,45 +1,145 @@
-# Hi 👋 I'm BALAJI M
+<div align="center">
 
-## 🚀 Frontend Developer | CS Student
+# Hi 👋, I'm BALAJI M
 
----
+### 🚀 Frontend Developer | Computer Science Engineering Student
 
-### 💡 About Me
-- 🎓 Computer Science Engineering student  
-- 💻 Focused on Full Stack Development & DSA  
-- 🚀 Passionate about building real-world web applications  
-- 🎯 Actively seeking Internship opportunities  
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Developer;Java+Programmer;Full+Stack+Learner;Open+to+Internships" />
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## 💡 About Me
 
-- **Frontend Development:** HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap  
-- **API Integration:** REST APIs  
-- **Programming Languages:** Java, JavaScript  
-- **Database:** MySQL, MongoDB (CRUD operations)  
-- **CMS:** WordPress  
-- **Version Control:** Git, GitHub  
+🎓 Computer Science Engineering Student
 
----
+💻 Focused on Frontend Development, Full Stack Development, and Data Structures & Algorithms
 
-### 📌 Projects
+🚀 Passionate about building real-world web applications
 
-**📝 React To-Do Manager**  
-**🌦️ Weather Forecasting Web App**  
-**🍽️ Responsive Restaurant Web App**  
+🌱 Currently learning React.js, Java, MySQL, MongoDB, and DSA
+
+🎯 Actively seeking Internship opportunities
+
+⚡ Always exploring new technologies and improving development skills
 
 ---
 
-### 📊 Coding Profiles
-- 🧠 LeetCode: https://leetcode.com/u/Balaji_Techie/  
-- 📘 GeeksforGeeks: https://www.geeksforgeeks.org/profile/balajil2g2  
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="mailto:balajim2063@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/balaji-techie/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Balaji_Techie/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/balajil2g2">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+</p>
+
 ---
 
-### 📫 Contact
-📧 Email: balajim2063@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/balaji-techie/  
+## 🛠️ Tech Stack
+
+### 💻 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+</p>
+
+### ☕ Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,javascript" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🔧 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+### 🌐 CMS
+
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress" />
+</p>
 
 ---
 
-⭐ *Building skills. Building projects. Building future.*
+## 📌 Featured Projects
+
+### 📝 React To-Do Manager
+
+* Create, update, and manage tasks efficiently
+* Built using React Hooks and Local Storage
+* Responsive and user-friendly interface
+
+### 🌦️ Weather Forecasting Web App
+
+* Real-time weather information using REST APIs
+* Dynamic weather updates
+* Responsive design for all devices
+
+### 🍽️ Responsive Restaurant Web App
+
+* Modern and attractive UI
+* Mobile-first responsive design
+* Interactive user experience
+
+---
+
+## 📊 Coding Profiles
+
+🧠 LeetCode:
+https://leetcode.com/u/Balaji_Techie/
+
+📘 GeeksforGeeks:
+https://www.geeksforgeeks.org/profile/balajil2g2
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BALAJI-M-11&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=BALAJI-M-11&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BALAJI-M-11&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact
+
+📧 Email: **[balajim2063@gmail.com](mailto:balajim2063@gmail.com)**
+
+🔗 LinkedIn: **https://www.linkedin.com/in/balaji-techie/**
+
+---
+
+<div align="center">
+
+### ⭐ Turning Ideas into Reality Through Code.
+
+</div>
