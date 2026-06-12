@@ -14,11 +14,9 @@
 
 🎓 Computer Science Engineering Student
 
-💻 Focused on Frontend Development, Full Stack Development, and Data Structures & Algorithms
+💻 Focused on Full Stack Development & DSA
 
 🚀 Passionate about building real-world web applications
-
-🌱 Currently learning React.js, Java, MySQL, MongoDB, and DSA
 
 🎯 Actively seeking Internship opportunities
 
