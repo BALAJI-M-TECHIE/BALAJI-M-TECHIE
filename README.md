@@ -84,6 +84,7 @@
 
 ### 📝 React To-Do Manager  {*React, Vite, JavaScript, LocalStorage*}
 🌐  Live:https://to-do-manager-gray.vercel.app/ 
+
 💻 Code: https://github.com/BALAJI-M-TECHIE/to-do-manager.git
 
 * Create, update, and manage tasks efficiently
@@ -101,6 +102,7 @@
 
 ### 🍽️ Responsive Restaurant Web App  {*HTML, CSS, JavaScript*}
 🌐  Live: https://tastybit-restaurant.vercel.app/ 
+
 💻 Code: https://github.com/BALAJI-M-TECHIE/tastybit-restaurant-webapp.git
 
 * Modern and attractive UI
