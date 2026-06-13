@@ -82,19 +82,20 @@
 
 ## 📌 Featured Projects
 
-### 📝 React To-Do Manager
+### 📝 React To-Do Manager (*React, Vite, JavaScript, LocalStorage*)
 
 * Create, update, and manage tasks efficiently
 * Built using React Hooks and Local Storage
 * Responsive and user-friendly interface
 
-### 🔍 GitHub Profile Finder
+### 🔍 GitHub Profile Finder  (*HTML, CSS, JavaScript, GitHub REST API*)
+
 
 * Real-time GitHub profile search using GitHub REST API
 * Displays repositories, followers, following, and profile statistics
 * Includes search validation, error handling, and responsive UI
 
-### 🍽️ Responsive Restaurant Web App
+### 🍽️ Responsive Restaurant Web App (*HTML, CSS, JavaScript*)
 
 * Modern and attractive UI
 * Mobile-first responsive design
