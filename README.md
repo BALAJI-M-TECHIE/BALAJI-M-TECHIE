@@ -83,6 +83,7 @@
 ## 📌 Featured Projects
 
 ### 📝 React To-Do Manager  {*React, Vite, JavaScript, LocalStorage*}
+🔗 Live: https://tastybit-restaurant.vercel.app/ | 🔗 Code: https://github.com/BALAJI-M-TECHIE/tastybit-restaurant-webapp.git
 
 * Create, update, and manage tasks efficiently
 * Built using React Hooks and Local Storage
