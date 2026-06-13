@@ -83,8 +83,8 @@
 ## 📌 Featured Projects
 
 ### 📝 React To-Do Manager  {*React, Vite, JavaScript, LocalStorage*}
-🔗 Live:https://to-do-manager-gray.vercel.app/ 
-🔗 Code: https://github.com/BALAJI-M-TECHIE/to-do-manager.git
+🌐  Live:https://to-do-manager-gray.vercel.app/ 
+💻 Code: https://github.com/BALAJI-M-TECHIE/to-do-manager.git
 
 * Create, update, and manage tasks efficiently
 * Built using React Hooks and Local Storage
@@ -92,16 +92,16 @@
   
 
 ### 🔍 GitHub Profile Finder  {*HTML, CSS, JavaScript, GitHub REST API*}
-🔗 Live:  https://github-profile-finder-silk.vercel.app/  
-🔗 Code: https://github.com/BALAJI-M-TECHIE/github-profile-finder.git
+🌐  Live:  https://github-profile-finder-silk.vercel.app/  
+💻 Code: https://github.com/BALAJI-M-TECHIE/github-profile-finder.git
 
 * Real-time GitHub profile search using GitHub REST API
 * Displays repositories, followers, following, and profile statistics
 * Includes search validation, error handling, and responsive UI
 
 ### 🍽️ Responsive Restaurant Web App  {*HTML, CSS, JavaScript*}
-🔗 Live: https://tastybit-restaurant.vercel.app/ 
-🔗 Code: https://github.com/BALAJI-M-TECHIE/tastybit-restaurant-webapp.git
+🌐  Live: https://tastybit-restaurant.vercel.app/ 
+💻 Code: https://github.com/BALAJI-M-TECHIE/tastybit-restaurant-webapp.git
 
 * Modern and attractive UI
 * Mobile-first responsive design
