@@ -88,11 +88,11 @@
 * Built using React Hooks and Local Storage
 * Responsive and user-friendly interface
 
-### 🌦️ Weather Forecasting Web App
+### 🔍 GitHub Profile Finder
 
-* Real-time weather information using REST APIs
-* Dynamic weather updates
-* Responsive design for all devices
+* Real-time GitHub profile search using GitHub REST API
+* Displays repositories, followers, following, and profile statistics
+* Includes search validation, error handling, and responsive UI
 
 ### 🍽️ Responsive Restaurant Web App
 
