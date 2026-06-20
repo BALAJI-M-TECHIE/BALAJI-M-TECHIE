@@ -115,7 +115,7 @@
 https://leetcode.com/u/Balaji_Techie/
 
 📘 GeeksforGeeks:
-https://www.geeksforgeeks.org/profile/balajil2g2
+https://www.geeksforgeeks.org/profile/balajitechie
 
 ---
 
