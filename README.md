@@ -40,7 +40,7 @@
   </a>
 
   <a href="https://www.geeksforgeeks.org/profile/balajil2g2">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="40"/>
+    <img src="https://www.geeksforgeeks.org/profile/balajitechie" height="40"/>
   </a>
 </p>
 
