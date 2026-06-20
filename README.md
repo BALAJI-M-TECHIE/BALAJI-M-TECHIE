@@ -28,20 +28,20 @@
 
 <p align="left">
   <a href="mailto:balajim2063@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="50"/>
   </a>
 
   <a href="https://www.linkedin.com/in/balaji-techie/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="50"/>
   </a>
 
   <a href="https://leetcode.com/u/Balaji_Techie/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="40"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="50"/>
   </a>
 
-  <a href="https://www.geeksforgeeks.org/profile/balajil2g2">
-    <img src="https://www.geeksforgeeks.org/profile/balajitechie" height="40"/>
-  </a>
+ <a href="https://www.geeksforgeeks.org/user/balajitechie/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="50"/>
+</a>
 </p>
 
 ---
