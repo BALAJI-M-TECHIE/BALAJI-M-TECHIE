@@ -51,9 +51,11 @@
 🚀 Visit My Portfolio:
 
 <a href="https://balaji-portfolio-web.vercel.app/" target="_blank">
-  
+  <img 
+    src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" 
+    height="70"
+  />
 </a>
-
 ---
 
 ## 🛠️ Tech Stack
