@@ -35,6 +35,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="50"/>
   </a>
 
+  <a href="https://linktr.ee/Balaji_Techie">
+  <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" height="50"/>
+</a>
+
   <a href="https://leetcode.com/u/Balaji_Techie/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="50"/>
   </a>
