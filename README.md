@@ -142,6 +142,8 @@ https://www.geeksforgeeks.org/profile/balajitechie
 
 🔗 LinkedIn: **https://www.linkedin.com/in/balaji-techie/**
 
+🔗 Linktree : **https://linktr.ee/Balaji_Techie**
+
 ---
 
 <div align="center">
